@@ -1,4 +1,4 @@
-# <a name="mcq-generator"></a> QuizzyBee: Automatically Create Multiple-Choice Questions from Uploaded Text Documents
+# <a name="mcq-generator"></a> IntelliQuest: Transform Uploaded Text into Auto-Generated MCQs
 
 ## Table of Contents
 - [Code Overview and Breakdown](#code-overview-and-breakdown) 
